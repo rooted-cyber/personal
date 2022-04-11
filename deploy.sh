@@ -1,1 +1,1 @@
-pip install --upgrade pip;git clone -b dev https://github.com/TeamUltroid/Ultroid;cd Ult*d;wget -O .env https://raw.githubusercontent.com/rooted-cyber/personal/main/hello;pip3 nstall -r req*;pip3 install -r res*/start*/opti*re*;bash start*
+pip install --upgrade pip;git clone https://github.com/TeamUltroid/Ultroid;cd Ult*d;wget -O .env https://raw.githubusercontent.com/rooted-cyber/personal/main/hello;pip3 nstall -r req*;pip3 install -r res*/start*/opti*re*;bash start*
